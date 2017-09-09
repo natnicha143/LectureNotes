@@ -50,6 +50,13 @@
 ## Even Driven Programming
 
 
+## Inversion of control
+* Is a design principle in which custom written portions of the program will call you
+
+## The call-back design pattern
+* A method call from a module to a client that it notifies about some condition.
+
+
 
 
 ## High-fidelity prototypes
